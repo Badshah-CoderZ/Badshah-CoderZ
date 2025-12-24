@@ -3,7 +3,9 @@ I'm **`Badshah Afridi`**, a passionate **software developer dedicated to buildin
 
  [![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://www.facebook.com/badshah.afridi.06)  [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/badshahafridi_06)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://x.com/badshahafridi06) 
-[![TikTok](https://img.icons8.com/ios-filled/50/000000/tiktok.png)](https://www.tiktok.com/@badshah.afridi.06)
+[![TikTok](https://img.icons8.com/ios-filled/50/000000/tiktok.png)](https://www.tiktok.com/@badshah.afridi.06) [![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png)](https://t.me/badshahafridi06)
+[![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp.png)](https://wa.me/01817090350)
+
 
 
 
